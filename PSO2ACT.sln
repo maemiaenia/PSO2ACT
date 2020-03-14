@@ -1,7 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSO2ACT", "PSO2ACT\PSO2ACT.csproj", "{273C5138-4CD9-42CC-A7CD-22944BE5B539}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Advanced Combat Tracker", "\\REHOME01\pso2_bin\ACT\Advanced Combat Tracker.exe", "{9B87DA00-716D-4A4F-B24B-DB418EF8B34C}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = \\REHOME01\pso2_bin\ACT\Advanced Combat Tracker.exe
+		RemoteMachine = DESKTOP-GJKMGHB
+		StartingDirectory = \\REHOME01\pso2_bin\ACT
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +28,13 @@ Global
 		{273C5138-4CD9-42CC-A7CD-22944BE5B539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{273C5138-4CD9-42CC-A7CD-22944BE5B539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{273C5138-4CD9-42CC-A7CD-22944BE5B539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B87DA00-716D-4A4F-B24B-DB418EF8B34C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{9B87DA00-716D-4A4F-B24B-DB418EF8B34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1468E8C8-BEC3-4F61-8746-F67697063FD6}
 	EndGlobalSection
 EndGlobal

@@ -38,6 +38,7 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -58,11 +59,50 @@
     <EmbeddedResource Include="config.resx">
       <DependentUpon>config.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Icons\Disc.png" />
+    <EmbeddedResource Include="Icons\Pets.png" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="skills.csv">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </EmbeddedResource>
+    <EmbeddedResource Include="Icons\ClassIcon-BO.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-BR.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-ET.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-FI.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-FO.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-GU.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-HR.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-HU.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-PH.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-RA.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-SU.png" />
+    <EmbeddedResource Include="Icons\ClassIcon-TE.png" />
+    <EmbeddedResource Include="Icons\DarkBlast.png" />
+    <EmbeddedResource Include="Icons\MusicDisc.png" />
+    <EmbeddedResource Include="Icons\OtherIcon-S-ClassAffix.png" />
+    <EmbeddedResource Include="Icons\TechniqueIcon-Barta.png" />
+    <EmbeddedResource Include="Icons\TechniqueIcon-Compound.png" />
+    <EmbeddedResource Include="Icons\TechniqueIcon-Foie.png" />
+    <EmbeddedResource Include="Icons\TechniqueIcon-Grants.png" />
+    <EmbeddedResource Include="Icons\TechniqueIcon-Megid.png" />
+    <EmbeddedResource Include="Icons\TechniqueIcon-Zan.png" />
+    <EmbeddedResource Include="Icons\TechniqueIcon-Zonde.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-BulletBow.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-DoubleSaber.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-DualBlades.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Gunslash.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-JetBoots.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Katana.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Knuckle.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Launcher.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Partisan.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Rifle.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Rod.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Sword.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Tact.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Talis.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-TwinDagger.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-TwinMachinegun.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-Wand.png" />
+    <EmbeddedResource Include="Icons\WeaponIcon-WireLance.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
