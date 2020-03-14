@@ -1,6 +1,0 @@
-language: python
-
-install: true
-
-script:
-  - python check_skills.py
