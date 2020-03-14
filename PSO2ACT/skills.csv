@@ -46,8 +46,8 @@ Zonde,554054867,Tech,Uncharged
 Zonde (C),553845451,Tech,Zonde (type-0 craft) uncharged
 Zonde (C),3325804278,Tech,charged
 Zonde (C),3480669127,Tech,charged final blast
-Gizonde,71596560,Tech,Charged
-Gizonde,3022246617,Tech,Uncharged
+Gizonde,71596560,Tech,Uncharged
+Gizonde,3022246617,Tech,Charged
 Razonde,3676394406,Tech,Charged
 Razonde,1182047893,Tech,Uncharged
 Sazonde,3103634595,Tech,Charged
@@ -170,13 +170,13 @@ Sword hit,1215367338,Melee,Sword_ 3rd
 Sword hit,1331225593,Melee,Sword air first normal attack 
 Sword hit,1331225146,Melee,Sword air second normal attack
 Sword hit,1331225211,Melee,Sword air third normal attack
-Sword Step Attack (C),1279043576,Melee,Sword Step Attack (Sacrifice Bite ver) (unused as of 2018 Oct 10)
-Sword hit (C),2001359545,Melee,Sword first normal attack (Sacrifice Bite ver) (unused as of 2018 Oct 10)
-Sword hit (C),2002747972,Melee,Sword second normal attack (Sacrifice Bite ver) (unused as of 2018 Oct 10)
-Sword hit (C),2084739075,Melee,Sword third normal attack (Sacrifice Bite ver) (unused as of 2018 Oct 10)
-Sword hit (C),1351584013,Melee,Sword air first normal attack (Sacrifice Bite ver) (unused as of 2018 Oct 10)
-Sword hit (C),1353244642,Melee,Sword air second normal attack (Sacrifice Bite ver) (unused as of 2018 Oct 10)
-Sword hit (C),1354018567,Melee,Sword air third normal attack (Sacrifice Bite ver) (unused as of 2018 Oct 10)
+Sword Step Attack (C),1279043576,Melee,Sword Step Attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+Sword hit (C),2001359545,Melee,Sword first normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+Sword hit (C),2002747972,Melee,Sword second normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+Sword hit (C),2084739075,Melee,Sword third normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+Sword hit (C),1351584013,Melee,Sword air first normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+Sword hit (C),1353244642,Melee,Sword air second normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
+Sword hit (C),1354018567,Melee,Sword air third normal attack (Sacrifice's Bite ver) (unused as of 2018 Oct 10)
 Rising Edge,1227622308,PA,Start
 Rising Edge,1224723795,PA,Spin
 Twister Fall,1224723730,PA,Spin
@@ -213,14 +213,14 @@ Guilty Break,3096967243,PA,half charge 1
 Guilty Break,785070206,PA,half charge 2
 Guilty Break,3096936719,PA,full charge 1
 Guilty Break,297995916,PA,full charge 2
-Sacrifice Bite,526157945,PA,Sacrifice bite latch
-Sacrifice Bite,2275427188,PA,Sacrifice bite charges
-Sacrifice Bite,985472180,PA,Sacrifice bite short-charge
-Sacrifice Bite,2606728976,PA,Sacrifice bite smack
-Sacrifice Bite (C),1040118139,PA,Sacrifice Bite (Type-0) latch
-Sacrifice Bite (C),179195970,PA,Sacrifice Bite (Type-0) charge
-Sacrifice Bite (C),3909378260,PA,Sacrifice Bite (Type-0) quick-charge
-Sacrifice Bite (C),3040541025,PA,Sacrifice Bite (Type-0) hit
+Sacrifice's Bite,526157945,PA,Sacrifice's bite latch
+Sacrifice's Bite,2275427188,PA,Sacrifice's bite charges
+Sacrifice's Bite,985472180,PA,Sacrifice's bite short-charge
+Sacrifice's Bite,2606728976,PA,Sacrifice's bite smack
+Sacrifice's Bite (C),1040118139,PA,Sacrifice's Bite (Type-0) latch
+Sacrifice's Bite (C),179195970,PA,Sacrifice's Bite (Type-0) charge
+Sacrifice's Bite (C),3909378260,PA,Sacrifice's Bite (Type-0) quick-charge
+Sacrifice's Bite (C),3040541025,PA,Sacrifice's Bite (Type-0) hit
 Ignition Parry,3096775537,PA,Ignition Parry first four strikes (parried version uses this as well)
 Ignition Parry,54200585,PA,Ignition Parry final two strikes
 Ignition Parry,498184876,PA,Ignition Parry parried first hit
@@ -461,14 +461,14 @@ Symphonic Drive,167868454,PA,0 gear Symphonic Drive second kick
 Symphonic Drive,167868455,PA,1 gear
 Symphonic Drive,167868448,PA,2 gear
 Symphonic Drive,167868449,PA,3 gear
-Ooorchestraaa,120509749,PA,0 gear Ooorchestraaa
-Ooorchestraaa,120509750,PA,1 gear
-Ooorchestraaa,120509751,PA,2 gear
-Ooorchestraaa,120509752,PA,3 gear
-Ooorchestraaa,1362404324,PA,0 gear Ooorchestraaa finish
-Ooorchestraaa,1362404325,PA,1 gear
-Ooorchestraaa,1362404326,PA,2 gear
-Ooorchestraaa,1362404327,PA,3 gear
+Orchestra,120509749,PA,0 gear Orchestra
+Orchestra,120509750,PA,1 gear
+Orchestra,120509751,PA,2 gear
+Orchestra,120509752,PA,3 gear
+Orchestra,1362404324,PA,0 gear Orchestra finish
+Orchestra,1362404325,PA,1 gear
+Orchestra,1362404326,PA,2 gear
+Orchestra,1362404327,PA,3 gear
 Bloody Sarabande,1022160397,PA,Bloody Saranbande 0 gear pt1
 Bloody Sarabande,1022160396,PA,Bloody Saranbande 1 gear
 Bloody Sarabande,1022160395,PA,Bloody Saranbande 2 gear
@@ -685,9 +685,9 @@ Parallel Slider (C),3857649477,PA,Parallel Slider (Type-0)
 Satellite Cannon,2295790933,PA,Satellite Cannon (no charge)
 Satellite Cannon,2295790868,PA,Satellite Cannon (half charge)
 Satellite Cannon,2295790295,PA,Satellite Cannon (full charge)
-End Attract,2285537842,PA,End Attract (no charge)
-End Attract,2285537907,PA,End Attract (half charge)
-End Attract,2285538736,PA,End Attract (full charge)
+End Attraction,2285537842,PA,End Attraction (no charge)
+End Attraction,2285537907,PA,End Attraction (half charge)
+End Attraction,2285538736,PA,End Attraction (full charge)
 Gravity Bomb,3695311812,Special,Gravity Bomb
 Stun Grenade,506640607,Special,Stun Grenade
 Upper Trap,2460168075,Special,Upper Trap (Ra skill)
@@ -699,14 +699,8 @@ Launcher hit,594271098,Ranged,Second
 Launcher hit,594270780,Ranged,Third
 Dive Roll (Launcher) hit,2731320054,Ranged,Dive roll shoot
 Mirage Shot,3433218069,Special,Mirage Shot (Ra skill)
-Mirage Shot,1226027508,Special,Mirage Shot 2nd attack in the combo (Ra skill)
-Mirage Shot,3074547700,Special,Mirage Shot 3rd attack in the combo (Ra skill)
 Panic Shot,1201754534,Special,Panic Shot (Ra skill)
-Panic Shot,4206984394,Special,Panic Shot 2nd attack in the combo (Ra skill)
-Panic Shot,2212135647,Special,Panic Shot 3rd attack in the combo (Ra skill)
 Jellen Shot,2734794071,Special,Jellen Shot (Ra skill)
-Jellen Shot,904883424,Special,Jellen Shot 2nd attack in the combo (Ra skill)
-Jellen Shot,3536788021,Special,Jellen Shot 3rd attack in the combo (Ra skill)
 Divine Launcher,2709160760,PA,Divine Launcher
 Divine Launcher (C),1445952978,PA,uncharged
 Divine Launcher (C),1445953294,PA,charged
@@ -1213,10 +1207,10 @@ Double Saber Step Attack (Etoile),1877753403,Melee,Etoile Double Saber Step Atta
 Double Saber Weapon Action (Etoile),3703502919,Special,Etoile Double Saber Weapon Action first-in-a-row
 Double Saber Weapon Action (Etoile),1299126211,Special,Etoile Double Saber Weapon Action second-in-a-row
 Double Saber Weapon Action (Etoile),2505461367,Special,Etoile Double Saber Weapon Action small swords
-Double Saber Weapon Action (Etoile),3703475948,Special,Etoile Double Saber Weapon Action parry first-in-a-row
-Double Saber Weapon Action (Etoile),1299131665,Special,Etoile Double Saber Weapon Action parry second-in-a-row
-Double Saber Weapon Action (Etoile),3703475885,Special,Etoile Double Saber Weapon Action (Quick Take) first-in-a-row (Et skill)
-Double Saber Weapon Action (Etoile),1299131728,Special,Etoile Double Saber Weapon Action (Quick Take) second-in-a-row (Et skill)
+Double Saber Weapon Action (Etoile) [Parry],3703475948,Special,Etoile Double Saber Weapon Action parry first-in-a-row
+Double Saber Weapon Action (Etoile) [Parry],1299131665,Special,Etoile Double Saber Weapon Action parry second-in-a-row
+Double Saber Weapon Action (Etoile) [Quick Take],3703475885,Special,Etoile Double Saber Weapon Action (Quick Take) first-in-a-row (Et skill)
+Double Saber Weapon Action (Etoile) [Quick Take],1299131728,Special,Etoile Double Saber Weapon Action (Quick Take) second-in-a-row (Et skill)
 Double Saber Quick Take,3668847151,Special,Double Saber Quick Take (normal attack) (Et skill)
 Double Saber Gear (Etoile),2428433047,Special,Etoile Double Saber Gear no gear (Et skill)
 Double Saber Gear (Etoile),3674749665,Special,Etoile Double Saber Gear 1 gear (Et skill)
@@ -1277,16 +1271,16 @@ Wand Gear (Etoile),3099099080,Special,Etoile Wand Gear 2nd charge big explosion 
 Prism Circular,699328332,PA,Prism Circular hold
 Prism Circular,788841907,PA,Prism Circular first hit
 Prism Circular,4288338327,PA,Prism Circular slash
-Prism Circular,788842224,PA,Prism Circular (Focus/Weapon Action)
+Prism Circular (Focus),788842224,PA,Prism Circular (Focus/Weapon Action)
 Glitter Stripe,4020026781,PA,Glitter Stripe
 Glitter Stripe,785560393,PA,Glitter Stripe explosion
-Glitter Stripe,785561722,PA,Glitter Stripe explosion (Focus/Weapon Action)
+Glitter Stripe (Focus),785561722,PA,Glitter Stripe explosion (Focus/Weapon Action)
 Black Hole Rupture,2723321977,PA,Black Hole Rupture
 Black Hole Rupture,2710202273,PA,Black Hole Rupture AoE field generating slash
 Black Hole Rupture,2286047535,PA,Black Hole Rupture AoE field
-Black Hole Rupture,2286047593,PA,Black Hole Rupture AoE field (Focus/Weapon Action)
+Black Hole Rupture (Focus),2286047593,PA,Black Hole Rupture AoE field (Focus/Weapon Action)
 Luminous Flare,5834299,PA,Luminous Flare
-Luminous Flare,2338828957,PA,Luminous Flare (Focus/Weapon Action)
+Luminous Flare (Focus),2338828957,PA,Luminous Flare (Focus/Weapon Action)
 Dissipating Wave,3065779131,Special,Dissipating Wave first normal attack (Form/Vades series) (Weapon Potential)
 Dissipating Wave,3065779197,Special,Dissipating Wave second normal attack (Form/Vades series) (Weapon Potential)
 Dissipating Wave,3065778236,Special,Dissipating Wave third normal attack (Form/Vades series) (Weapon Potential)
@@ -1313,8 +1307,8 @@ Quadruple Grenade,3193149642,Ranged,Quadruple Grenade (first normal attack) (Yas
 Quadruple Grenade,3193417863,Ranged,Quadruple Grenade (second normal attack) (Yasminkov 4000FJ) (Weapon Potential)
 Quadruple Grenade,3191508501,Ranged,Quadruple Grenade (third normal attack) (Yasminkov 4000FJ) (Weapon Potential)
 Dive Roll Shoot (Quadruple Grenade),3569343302,Ranged,Quadruple Grenade (Dive Roll Shoot) (Yasminkov 4000FJ) (Weapon Potential)
-Auxiliary Dart,2512505424,Special,Auxiliary Dart (normal) (Radius Arca) (Weapon Potential)
-Auxiliary Dart,2512505439,Special,Auxiliary Dart (after dodge) (Radius Arca) (Weapon Potential)
+Auxiliary Dart,2512505424,Special,Auxiliary Dart (Radius Arca) (Weapon Potential)
+Auxiliary Dart,2512505439,Special,Auxiliary Dart (Radius Arca) (Weapon Potential)
 Hexing Spirit,3555827165,Special,Hexing Spirit (Cursed Slayer Gaen) (Weapon Potential) probably depends on the number of normal attacks
 Hexing Spirit,3555827167,Special,Hexing Spirit (Cursed Slayer Gaen) (Weapon Potential) probably depends on the number of normal attacks
 Hexing Spirit,3555827164,Special,Hexing Spirit (Cursed Slayer Gaen) (Weapon Potential) probably depends on the number of normal attacks
@@ -1336,11 +1330,8 @@ Golden Dragon's Eruption,4005133178,Special,Golden Dragon's Eruption (Sign Burn)
 Byakko Accordant,1989470535,Special,Byakko Accordant (Shiho Byakko) (Weapon Potential)
 Soulbound Guillotine,895229155,Special,Soulbound Guillotine =100% HP (Corrupted Spear Epitemia) (Weapon Potential)
 Soulbound Guillotine,2876421265,Special,Soulbound Guillotine <100% HP (Corrupted Spear Epitemia) (Weapon Potential)
-Golden Crest,2248412976,Special,Golden Crest (Folgore Weben) (Weapon Potential)
 S1: Reckless Strike,818692292,Special,S1: Reckless Strike (S-Class Special Ability)
 S4: Raising Pursuit,99411394,Special,S4: Raising Pursuit (S-Class Special Ability)
-S5: Auxiliary Arrow,4233010551,Special,S5: Auxiliary Arrow (normal) (S-Class Special Ability)
-S5: Auxiliary Arrow,4233010550,Special,S5: Auxiliary Arrow (after dodge) (S-Class Special Ability)
 BOOSTO KICKU,85301614,Special,Tokyo speed-pad kick level 1
 BOOSTO KICKU,85302964,Special,Tokyo speed-pad kick level 2 
 BOOSTO KICKU,85303029,Special,Tokyo speed-pad kick level 3
